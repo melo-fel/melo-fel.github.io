@@ -14,3 +14,19 @@ body {
   p {
     color: black;
   }
+
+a:link {
+    color: black;
+  }
+  
+  a:visited {
+    color: red;
+  }
+  
+  a:hover {
+    color: maroon;
+  }
+  
+  a:active {
+    color: blue;
+  }
