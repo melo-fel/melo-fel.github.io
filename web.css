@@ -28,13 +28,9 @@ body {
   border-style: inset;
   border-width: 4px;
  }
-
- ul {
-  list-style-position: inside; /* Optional: Ensures bullets are inside the padding of the list */
-}
-
+ 
 li {
-  margin-bottom: 10px; /* Adjust the spacing between the bullet points */
+  margin-bottom: 10px;
 }
 
 a:link {
